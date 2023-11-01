@@ -1,6 +1,11 @@
+
+https://github.com/YonatanToker/React-Challenge-Exercise/assets/116793943/1acec9d8-137c-41d1-bab5-99750e136df5
 ## A properties management React Exercise
 You can take this challenge as a way of exercising/testing your React skills:
-https://github.com/YonatanToker/React-Challenge-Exercise/assets/116793943/f3114edf-0d6b-4f8d-971b-8d441837492c
+
+
+https://github.com/YonatanToker/React-Challenge-Exercise/assets/116793943/7d8500e4-bcc3-43b0-b514-7a615dec4444
+
 
 ### Instructions:
 Your task is to build a transfer list component.
