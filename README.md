@@ -1,5 +1,3 @@
-
-https://github.com/YonatanToker/React-Challenge-Exercise/assets/116793943/1acec9d8-137c-41d1-bab5-99750e136df5
 ## A properties management React Exercise
 You can take this challenge as a way of exercising/testing your React skills:
 
